@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509174961637",
+    "project_id": "notesvault-b82e4",
+    "storage_bucket": "notesvault-b82e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509174961637:android:248cef97190b0f122bcb0c",
+        "android_client_info": {
+          "package_name": "pro.notesvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARknbLaFbxUmvvqGWSvgG8bJEYNfz3VzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
